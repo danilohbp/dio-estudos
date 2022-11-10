@@ -6,8 +6,8 @@ Repositório para estudo de cursos **GRATUITOS** da Digital Inovation One. Estou
 
 ### JAVA
 - [x]  Estrutura de Dados em Java;
-- [ ] Gerenciamento de Dependências e Build em Java com Maven;
-- [ ] Entrada e Saída de Arquivos (I/O) em Java; 
+- [X] Gerenciamento de Dependências e Build em Java com Maven;
+- [X] Entrada e Saída de Arquivos (I/O) em Java; 
 - [ ] Trabalhando com Banco de Dados utilizando JDBC e JPA;
 - [ ] JPA com Hibernate;
 - [ ] Tratamento de Exceções em Java;
