@@ -54,7 +54,7 @@ Repositório para estudo de cursos **GRATUITOS** da Digital Inovation One. Estou
 
 ### Node JS
 - [ ] Introdução ao Node.js com Express;
-- [ ] Instalando e Configurando seu Ambiente Node.js - NÃO INCLUIR ESTE CURSO NA LISTA DE CERTIFICADOS!!!!!!!!!
+- [ ] Instalando e Configurando seu Ambiente Node.js
 - [ ] Desenvolvimento back-end com Node.js;
 - [ ] Fundamentos de Node.js e Jest.
 
