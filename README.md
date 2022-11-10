@@ -4,7 +4,7 @@ Repositório para estudo de cursos **GRATUITOS** da Digital Inovation One. Estou
 
 ## Lista de cursos que estou fazendo em sequência:
 
-### JAVA
+### Java
 - [x]  Estrutura de Dados em Java;
 - [X] Gerenciamento de Dependências e Build em Java com Maven;
 - [X] Entrada e Saída de Arquivos (I/O) em Java; 
